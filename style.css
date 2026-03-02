@@ -72,5 +72,5 @@ footer {
   flex-direction: column;
   flex-wrap: no-wrap;
   margin-top: auto;
-  min-height: 100vh
+  position: absolute``bottom: 0;
 }
